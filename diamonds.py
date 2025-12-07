@@ -46,7 +46,7 @@ def rows(letter:str) -> None:
         temp_row = list_of_rows[index]
         list_of_rows.append(temp_row)
 
-     for item in list_of_rows:
+    for item in list_of_rows:
         print(item)
 
 
